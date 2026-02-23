@@ -16,10 +16,17 @@
     </item>
     <item>
       <title></title>
+      <link>https://makre38.github.io/Osakana_home/pages/diary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://makre38.github.io/Osakana_home/pages/diary/</guid>
+      <description>&lt;h1&gt;雑記&lt;/h1&gt;&#xA;&#xA;&lt;a href=&#34;https://makre38.github.io/Osakana_home/posts/diary_26_0223/index.html&#34;&gt;2026 2/23&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title></title>
       <link>https://makre38.github.io/Osakana_home/pages/profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://makre38.github.io/Osakana_home/pages/profile/</guid>
-      <description>おさかなです&#xA;&#xA;ビバ丼にいるわよ</description>
+      <description>[profile]&#xA;&lt;br&gt;&#xA;name = &#34;おさかな&#34;&#xA;&lt;br&gt;&#xA;live-in = &#34;ビバ丼&#34;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;[env]&#xA;&lt;br&gt;&#xA;os = &#34;Arch Linux&#34;&#xA;&lt;br&gt;&#xA;desktop = &#34;Hyprland&#34;&#xA;&lt;br&gt;&#xA;editor = &#34;Vim&#34;&#xA;&lt;br&gt;&#xA;IME = &#34;SKK&#34;&#xA;&lt;br&gt;&#xA;browser = &#34;Vivaldi&#34;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&#xA;[favourite]&#xA;&lt;br&gt;&#xA;animetion = [&#xA;&lt;br&gt;&#xA;  &#34;ガールズ und Panzer&#34;,&#xA;  &lt;br&gt;&#xA;  &#34;ゆゆ式&#34;,&#xA;  &lt;br&gt;&#xA;  &#34;キルミーベイベー&#34;,&#xA;  &lt;br&gt;&#xA;  &#34;らき☆すた&#34;&#xA;  &lt;br&gt;&#xA;]&#xA;&lt;br&gt;</description>
     </item>
   </channel>
 </rss>
