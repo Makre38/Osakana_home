@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://makre38.github.io/Osakana_home/</loc>
+    <loc>http://localhost:1313/Osakana_home/</loc>
     <lastmod>2026-02-26T00:31:22+09:00</lastmod>
   </url><url>
-    <loc>https://makre38.github.io/Osakana_home/pages/</loc>
+    <loc>http://localhost:1313/Osakana_home/pages/</loc>
     <lastmod>2026-02-26T00:31:22+09:00</lastmod>
   </url><url>
-    <loc>https://makre38.github.io/Osakana_home/posts/</loc>
+    <loc>http://localhost:1313/Osakana_home/posts/</loc>
     <lastmod>2026-02-26T00:01:38+09:00</lastmod>
   </url><url>
-    <loc>https://makre38.github.io/Osakana_home/posts/diary_26_0225/</loc>
+    <loc>http://localhost:1313/Osakana_home/posts/diary_26_0225/</loc>
     <lastmod>2026-02-25T22:16:41+09:00</lastmod>
   </url><url>
-    <loc>https://makre38.github.io/Osakana_home/posts/diary_26_0223/</loc>
+    <loc>http://localhost:1313/Osakana_home/posts/diary_26_0223/</loc>
     <lastmod>2026-02-23T22:16:41+09:00</lastmod>
   </url><url>
-    <loc>https://makre38.github.io/Osakana_home/pages/news/</loc>
+    <loc>http://localhost:1313/Osakana_home/pages/news/</loc>
     <lastmod>2026-02-23T22:16:41+09:00</lastmod>
   </url><url>
-    <loc>https://makre38.github.io/Osakana_home/pages/about/</loc>
+    <loc>http://localhost:1313/Osakana_home/pages/about/</loc>
   </url><url>
-    <loc>https://makre38.github.io/Osakana_home/pages/profile/</loc>
+    <loc>http://localhost:1313/Osakana_home/pages/profile/</loc>
   </url><url>
-    <loc>https://makre38.github.io/Osakana_home/categories/</loc>
+    <loc>http://localhost:1313/Osakana_home/categories/</loc>
   </url><url>
-    <loc>https://makre38.github.io/Osakana_home/tags/</loc>
+    <loc>http://localhost:1313/Osakana_home/tags/</loc>
   </url><url>
-    <loc>https://makre38.github.io/Osakana_home/pages/diary_menu/</loc>
+    <loc>http://localhost:1313/Osakana_home/pages/diary_menu/</loc>
   </url>
 </urlset>
