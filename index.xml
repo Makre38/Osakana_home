@@ -6,7 +6,29 @@
     <description>Recent content on おさかなのすみか</description>
     <generator>Hugo</generator>
     <language>ja</language>
+    <lastBuildDate>Wed, 25 Feb 2026 22:16:41 +0900</lastBuildDate>
     <atom:link href="https://makre38.github.io/Osakana_home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>久々にlcwoをやる話</title>
+      <link>https://makre38.github.io/Osakana_home/posts/diary_26_0225/</link>
+      <pubDate>Wed, 25 Feb 2026 22:16:41 +0900</pubDate>
+      <guid>https://makre38.github.io/Osakana_home/posts/diary_26_0225/</guid>
+      <description>&lt;p&gt;LCWOというのは,オンライのCW(モールス)を練習できるサイトでありまして.もう半年ほどサボっていたが久々に触るぞと.&#xA;実はQRQというツールもあり,こっちも使っている.ターミナルから使えるので便利なわけです.&lt;/p&gt;&#xA;&lt;p&gt;いやはや,これだけ長い間さぼってると,元々たいして聞き取れなかったのに,更に聞きとれなくなっているもんだ.&lt;/p&gt;&#xA;&lt;p&gt;LCWOが気になったひとは&lt;a href=&#34;https://lcwo.net/&#34;&gt;ここ&lt;/a&gt;から試してみよう.&#xA;qrqはAURにあるぞ.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2月23日の雑記</title>
+      <link>https://makre38.github.io/Osakana_home/posts/diary_26_0223/</link>
+      <pubDate>Mon, 23 Feb 2026 22:16:41 +0900</pubDate>
+      <guid>https://makre38.github.io/Osakana_home/posts/diary_26_0223/</guid>
+      <description>&lt;p&gt;Arch Linuxにちゃんと入門したのは，2/21日である．&#xA;友人からの熱い勧めでHyprlandに手を出したところ，これがとても快適であり，絶賛．&#xA;設定をいじりつつ調整していく所存．&lt;/p&gt;&#xA;&lt;p&gt;ところで，&lt;a href=&#34;https://makre38.github.io/Osakana_home/pages/profile/index.html&#34;&gt;プロフィール&lt;/a&gt;にも書いてある通り色々のアニメがお気に入りである．&#xA;手元に円盤があるのに見れないのは悲しいので，BD環境を整える必要がある．&#xA;以前UbuntuでBD環境を作ったときは相当苦戦した記憶があるので身構えていたが，なんか今回はArch Linux Wikiに従ったらすんなり動いた．&#xA;Arch Linuxは初心者向けってのは本当だったにゃ．&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>にゅーす</title>
+      <link>https://makre38.github.io/Osakana_home/pages/news/</link>
+      <pubDate>Mon, 23 Feb 2026 22:16:41 +0900</pubDate>
+      <guid>https://makre38.github.io/Osakana_home/pages/news/</guid>
+      <description>&lt;p&gt;2026.02.14 ページ作成&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
       <link>https://makre38.github.io/Osakana_home/pages/about/</link>
@@ -16,31 +38,17 @@
     </item>
     <item>
       <title></title>
-      <link>https://makre38.github.io/Osakana_home/pages/diary/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://makre38.github.io/Osakana_home/pages/diary/</guid>
-      <description>&lt;h1&gt;雑記&lt;/h1&gt;&#xA;&#xA;&lt;a href=&#34;https://makre38.github.io/Osakana_home/posts/diary_26_0223/index.html&#34;&gt;2026 2/23&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title></title>
       <link>https://makre38.github.io/Osakana_home/pages/profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://makre38.github.io/Osakana_home/pages/profile/</guid>
       <description>[profile]&#xA;&lt;br&gt;&#xA;name = &#34;おさかな&#34;&#xA;&lt;br&gt;&#xA;live-in = &#34;ビバ丼&#34;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;[env]&#xA;&lt;br&gt;&#xA;os = &#34;Arch Linux&#34;&#xA;&lt;br&gt;&#xA;desktop = &#34;Hyprland&#34;&#xA;&lt;br&gt;&#xA;editor = &#34;Vim&#34;&#xA;&lt;br&gt;&#xA;IME = &#34;SKK&#34;&#xA;&lt;br&gt;&#xA;browser = &#34;Vivaldi&#34;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&#xA;[favourite]&#xA;&lt;br&gt;&#xA;animetion = [&#xA;&lt;br&gt;&#xA;  &#34;ガールズ und Panzer&#34;,&#xA;  &lt;br&gt;&#xA;  &#34;ゆゆ式&#34;,&#xA;  &lt;br&gt;&#xA;  &#34;キルミーベイベー&#34;,&#xA;  &lt;br&gt;&#xA;  &#34;らき☆すた&#34;&#xA;  &lt;br&gt;&#xA;]&#xA;&lt;br&gt;</description>
     </item>
     <item>
-      <title></title>
-      <link>https://makre38.github.io/Osakana_home/posts/diary_26_0223/</link>
+      <title>雑記の群れ</title>
+      <link>https://makre38.github.io/Osakana_home/pages/diary_menu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://makre38.github.io/Osakana_home/posts/diary_26_0223/</guid>
-      <description>&lt;p&gt;Arch Linuxにちゃんと入門したのは，2/21日である．&#xA;友人からの熱い勧めでHyprlandに手を出したところ，これがとても快適であり，絶賛．&#xA;設定をいじりつつ調整していく所存．&lt;/p&gt;&#xA;&lt;p&gt;ところで，&lt;a href=&#34;https://makre38.github.io/Osakana_home/pages/profile/index.html&#34;&gt;プロフィール&lt;/a&gt;にも書いてある通り色々のアニメがお気に入りである．&#xA;手元に円盤があるのに見れないのは悲しいので，BD環境を整える必要がある．&#xA;以前UbuntuでBD環境を作ったときは相当苦戦した記憶があるので身構えていたが，なんか今回はArch Linux Wikiに従ったらすんなり動いた．&#xA;Arch Linuxは初心者向けってのは本当だったにゃ．&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://makre38.github.io/Osakana_home/posts/news/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://makre38.github.io/Osakana_home/posts/news/</guid>
-      <description>&lt;p&gt;2026.02.14 ページ作成&lt;/p&gt;</description>
+      <guid>https://makre38.github.io/Osakana_home/pages/diary_menu/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
