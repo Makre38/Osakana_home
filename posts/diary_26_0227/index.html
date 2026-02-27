@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ja">
+	<head>
+		<meta charset="utf-8">
+<title> Discordでfcitxが動くようになった | おさかなのすみか </title>
+<link rel="icon" typa="image/png" href="favicon.png" >
+
+	</head>
+
+	<body>
+
+		<header>
+			<h1 align="center"> おさかなのすみか </h1>
+<nav>
+	<table align="center">
+		<tr align="center">
+			<td>
+				<a href="/Osakana_home/index.html"> ほめぱげ </a>
+			</td>
+			<td>
+				<a href="/Osakana_home/pages/about/index.html">このサイトについて</a>
+			</td>
+			<td>
+				<a href="/Osakana_home/pages/profile/index.html">プロフィール</a>
+			</td>
+			<td>
+				<a href="/Osakana_home/posts/index.html">雑記</a>
+			</td>
+		</tr>
+	</table>
+</nav>
+
+
+		</header>
+
+		<main>
+			
+<h1> Discordでfcitxが動くようになった </h1>
+<p>これまでのあらすじ</p>
+<p>Discord上でfcitx5-skkが動かなくて困っていた。
+どうやらEletron(なにこれ)を使用するアプリで発生する問題らしいところまでは分かったが、どう解消したらいいのかわからなかった。</p>
+<p>この原因がわかったので無事動くようになりました。
+何が原因だったかというと、DiscordがそもそもWaylandで起動してなかったのだ。<code>xprop</code>などを使うとそのアプリがX11で起動してるかわかる。
+結果、DiscordはXで起動していた。
+fcitxはWayland上で動いてるので、そりゃDiscord上できかないわけだ。</p>
+<p>ではどうするか。DiscordをWaylandで起動してやればいい。
+<code>discord --enable-wayland-ime --ozone-platform=wayland --enable-eatures=UseOzonePlatform</code></p>
+<p>こうするとWaylandで動く。
+しかし、これを毎回打ち込むのは面倒だしタイポしそうなので、環境変数を
+<code> ELECTRON_OZONE_HINT=wayland</code>
+と設定してやる。
+これでDiscrodを初めとしたElectronを使うアプリがWaylandで動くようだ。</p>
+
+
+		</main>
+
+		<footer>
+			<div align="center">
+<p> &copy; 2026 Osakana. </p>
+<p>powerd by hugo</p>
+</div>
+
+		</footer>
+
+	</body>
+</html>
