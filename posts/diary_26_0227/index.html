@@ -49,9 +49,12 @@ fcitxはWayland上で動いてるので、そりゃDiscord上できかないわ�
 <code>discord --enable-wayland-ime --ozone-platform=wayland --enable-eatures=UseOzonePlatform</code></p>
 <p>こうするとWaylandで動く。
 しかし、これを毎回打ち込むのは面倒だしタイポしそうなので、環境変数を
-<code> ELECTRON_OZONE_HINT=wayland</code>
+<code>ELECTRON_OZONE_HINT=wayland</code>
 と設定してやる。
 これでDiscrodを初めとしたElectronを使うアプリがWaylandで動くようだ。</p>
+<p>追記</p>
+<p>これだと,bashら呼んだとき以外はXで動いてしまう。
+<code>.config/environment.d/eledtron.conf</code> に <code>ELECTRON_OZONE_PLATFORM_HINT=wayland</code> と書いてやると他の起動方法でもWaylandで起動する.</p>
 
 
 		</main>
