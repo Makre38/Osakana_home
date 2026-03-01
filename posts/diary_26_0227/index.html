@@ -46,7 +46,7 @@
 結果、DiscordはXで起動していた。
 fcitxはWayland上で動いてるので、そりゃDiscord上できかないわけだ。</p>
 <p>ではどうするか。DiscordをWaylandで起動してやればいい。
-<code>discord --enable-wayland-ime --ozone-platform=wayland --enable-eatures=UseOzonePlatform</code></p>
+<code>discord --ozone-platform=wayland --enable-features=UseOzonePlatform</code></p>
 <p>こうするとWaylandで動く。
 しかし、これを毎回打ち込むのは面倒だしタイポしそうなので、環境変数を
 <code>ELECTRON_OZONE_HINT=wayland</code>
@@ -55,6 +55,11 @@ fcitxはWayland上で動いてるので、そりゃDiscord上できかないわ�
 <p>追記</p>
 <p>これだと,bashら呼んだとき以外はXで動いてしまう。
 <code>.config/environment.d/eledtron.conf</code> に <code>ELECTRON_OZONE_PLATFORM_HINT=wayland</code> と書いてやると他の起動方法でもWaylandで起動する.</p>
+<p>2026 3/1 さらに追記.
+<code>discord</code>を起動するときにフラグをつけてやるとwaylandで起動できてはっぴー、までは正しそうだが、その後が怪しい。どういうことかというと、今日あらためて <code>discord</code> とコマンドで呼んで起動したりランチャーから起動したりしたら、Xで起動してしまったのだ。
+なんで？？？？
+長ったらしいフラグをつければwaylandで起動はできたのだが。
+とりあえず姑息だがaliasでしのぐことにした。</p>
 
 
 		</main>
