@@ -6,8 +6,15 @@
     <description>Recent content on おさかなのすみか</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Feb 2026 21:27:03 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 21:56:23 +0900</lastBuildDate>
     <atom:link href="https://makre38.github.io/Osakana_home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linuxでもゆかりさんに喋ってもらいたい</title>
+      <link>https://makre38.github.io/Osakana_home/posts/diary_26_0305/</link>
+      <pubDate>Thu, 05 Mar 2026 21:56:23 +0900</pubDate>
+      <guid>https://makre38.github.io/Osakana_home/posts/diary_26_0305/</guid>
+      <description>&lt;p&gt;A.I.VOICE動いとりますよ。&#xA;wineで動かせるのだ。&#xA;多少動きが不安定なところもあるが。&lt;/p&gt;&#xA;&lt;p&gt;と言いつつ実はLinuxで完結する話ではなかったりする。&#xA;A.I.VOICE editorのinstallがどうしてもwineでうまくいかず、Windowsマシンを持ってる知り合いに頼んでエディタをインストールしてもらい、exeファイルまわり一式を移してもらった。&#xA;もう一押しがんばればインストールもこの計算機で完結させれるのかな。&lt;/p&gt;&#xA;&lt;p&gt;そういえば、実家からスーツ一式が輸送されてきた。どうやら卒業式で着用せよとの物である。&#xA;さすがに式典は正装かあ。まあそうかあ。&#xA;なんで正装ってのがあるんだろう、と思うなどした。&#xA;伝統的にそうだから、なのかな。&#xA;もっと実用として意味があるのだろうか。&#xA;勝手な推測としては、現代となっては利便性などで劣っている(主観)スーツやネクタイ、革靴を着用することは私利私欲よりも公共の規範を優先するよ、というのを示す旗であり、ある種のコストリー・シグナルであろうかと。&lt;/p&gt;&#xA;&lt;p&gt;公共の規範を優先する気概がそんなに無いので、スーツを着るべきか迷っている。&#xA;革靴はそっとしまっとく。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Discordでfcitxが動くようになった</title>
       <link>https://makre38.github.io/Osakana_home/posts/diary_26_0227/</link>
