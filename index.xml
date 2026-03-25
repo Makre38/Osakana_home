@@ -6,8 +6,22 @@
     <description>Recent content on おさかなのすみか</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Mar 2026 18:51:11 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 00:26:07 +0900</lastBuildDate>
     <atom:link href="https://makre38.github.io/Osakana_home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>学位がご用意されました</title>
+      <link>https://makre38.github.io/Osakana_home/posts/diary_26_0325/</link>
+      <pubDate>Thu, 26 Mar 2026 00:26:07 +0900</pubDate>
+      <guid>https://makre38.github.io/Osakana_home/posts/diary_26_0325/</guid>
+      <description>&lt;p&gt;厳正なる抽選の結果、学位がご用意されました。&lt;/p&gt;&#xA;&lt;p&gt;あと5年ガンバルゾー!&lt;/p&gt;&#xA;&lt;p&gt;月並だが、ここまで支援してくれた家族、ここまでつきあってくれた友人らに、ここに感謝の思いを表明します。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>スマーホホンでカレンダーを見る</title>
+      <link>https://makre38.github.io/Osakana_home/posts/diary_26_0324/</link>
+      <pubDate>Tue, 24 Mar 2026 17:07:48 +0900</pubDate>
+      <guid>https://makre38.github.io/Osakana_home/posts/diary_26_0324/</guid>
+      <description>&lt;p&gt;ちゃんとまとめるのを面倒くさがって、この状態で放流するとした。&lt;/p&gt;&#xA;&lt;p&gt;Vivaldiのカレンダーを普段使っているのだ。&#xA;これをスマーホホン(泥)で見たい。&lt;/p&gt;&#xA;&lt;p&gt;デフォルトだとgoogle カレンダーがあるが、これではできないようす。&lt;/p&gt;&#xA;&lt;p&gt;DAVx5とEtarを使ってやった。&lt;/p&gt;&#xA;&lt;p&gt;vivaldiに2段階認証を有効にしてたので、アプリケーションパスワードを設定しないと同期できない。&lt;/p&gt;&#xA;&lt;p&gt;vivaldiカレンダーのwebページからコピーできるurlだとDAVx5にカレンダーとかを登録できないっぽい。&lt;/p&gt;&#xA;&lt;p&gt;あと、/etc/locale.gen がen_USになってると12時間表記になるっぽい。&#xA;en_GBとかにすると24時間表記になる。&#xA;vivaldiは計算機の設定にあわせて表記をかえるっぽいので、vivaldiで24時間表記にならずに困ってたがそういうわけだった。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>ぼーえんきょうを調べてみたくなった</title>
       <link>https://makre38.github.io/Osakana_home/posts/diary_26_0323/</link>
