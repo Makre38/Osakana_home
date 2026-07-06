@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>きほんてきなページたち on おさかなのすみか</title>
-    <link>https://makre38.github.io/Osakana_home/pages/</link>
-    <description>Recent content in きほんてきなページたち on おさかなのすみか</description>
-    <generator>Hugo</generator>
-    <language>ja</language>
-    <lastBuildDate>Mon, 23 Feb 2026 22:16:41 +0900</lastBuildDate>
-    <atom:link href="https://makre38.github.io/Osakana_home/pages/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>にゅーす</title>
-      <link>https://makre38.github.io/Osakana_home/pages/news/</link>
-      <pubDate>Mon, 23 Feb 2026 22:16:41 +0900</pubDate>
-      <guid>https://makre38.github.io/Osakana_home/pages/news/</guid>
-      <description>&lt;p&gt;2026.02.14 ページ作成&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>おさかなのプロフィール</title>
-      <link>https://makre38.github.io/Osakana_home/pages/profile/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://makre38.github.io/Osakana_home/pages/profile/</guid>
-      <description>[profile]&#xA;&lt;br&gt;&#xA;name = &#34;おさかな&#34;&#xA;&lt;br&gt;&#xA;live-in = &#34;ビバ丼&#34;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;[env]&#xA;&lt;br&gt;&#xA;os = &#34;Arch Linux&#34;&#xA;&lt;br&gt;&#xA;desktop = &#34;Hyprland&#34;&#xA;&lt;br&gt;&#xA;editor = &#34;Vim&#34;&#xA;&lt;br&gt;&#xA;IME = &#34;SKK&#34;&#xA;&lt;br&gt;&#xA;browser = &#34;Vivaldi&#34;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&#xA;[favourite]&#xA;&lt;br&gt;&#xA;animetion = [&#xA;&lt;br&gt;&#xA;  &#34;ガールズ und Panzer&#34;,&#xA;  &lt;br&gt;&#xA;  &#34;ゆゆ式&#34;,&#xA;  &lt;br&gt;&#xA;  &#34;キルミーベイベー&#34;,&#xA;  &lt;br&gt;&#xA;  &#34;らき☆すた&#34;&#xA;  &lt;br&gt;&#xA;]&#xA;&lt;br&gt;</description>
-    </item>
-    <item>
-      <title>このサイトについて</title>
-      <link>https://makre38.github.io/Osakana_home/pages/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://makre38.github.io/Osakana_home/pages/about/</guid>
-      <description>このサイトは、おさかなが棲んでおりますわ。&#xA;時々書いたりするかもですわ。</description>
-    </item>
-  </channel>
+	<channel>
+		<title>きほんてきなページたち on おさかなのすみか</title>
+		<link>https://makre38.github.io/Osakana_home/pages/</link>
+		<description>Recent content in きほんてきなページたち on おさかなのすみか</description>
+		<generator>Hugo</generator>
+		<language>ja</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 23 Feb 2026 22:16:41 +0900</lastBuildDate>
+		
+			<atom:link href="https://makre38.github.io/Osakana_home/pages/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>にゅーす</title>
+				<link>https://makre38.github.io/Osakana_home/pages/news/</link>
+				<pubDate>Mon, 23 Feb 2026 22:16:41 +0900</pubDate>
+				<guid>https://makre38.github.io/Osakana_home/pages/news/</guid>
+				<description>&lt;p&gt;2026.02.14 ページ作成&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>おさかなのプロフィール</title>
+				<link>https://makre38.github.io/Osakana_home/pages/profile/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://makre38.github.io/Osakana_home/pages/profile/</guid>
+				<description>&lt;p&gt;[profile]&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;name = &amp;ldquo;おさかな&amp;rdquo;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;live-in = &amp;ldquo;ビバ丼&amp;rdquo;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;[env]&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;os = &amp;ldquo;Arch Linux&amp;rdquo;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;desktop = &amp;ldquo;Hyprland&amp;rdquo;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;editor = &amp;ldquo;Vim&amp;rdquo;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;IME = &amp;ldquo;SKK&amp;rdquo;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;browser = &amp;ldquo;Vivaldi&amp;rdquo;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>このサイトについて</title>
+				<link>https://makre38.github.io/Osakana_home/pages/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://makre38.github.io/Osakana_home/pages/about/</guid>
+				<description>&lt;p&gt;このサイトは、おさかなが棲んでおりますわ。&#xA;時々書いたりするかもですわ。&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

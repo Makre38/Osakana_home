@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>赫奕たる日々 on おさかなのすみか</title>
+		<link>https://makre38.github.io/Osakana_home/prog-note/</link>
+		<description>Recent content in 赫奕たる日々 on おさかなのすみか</description>
+		<generator>Hugo</generator>
+		<language>ja</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 07 Jul 2026 01:45:56 +0900</lastBuildDate>
+		
+			<atom:link href="https://makre38.github.io/Osakana_home/prog-note/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>7/6</title>
+				<link>https://makre38.github.io/Osakana_home/prog-note/2026-7/2026-07-06/</link>
+				<pubDate>Tue, 07 Jul 2026 01:45:56 +0900</pubDate>
+				<guid>https://makre38.github.io/Osakana_home/prog-note/2026-7/2026-07-06/</guid>
+				<description>&lt;p&gt;このページを作った.&#xA;hugoをいじるのが久々であり、仕様が変更されていたので手間取った。&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
